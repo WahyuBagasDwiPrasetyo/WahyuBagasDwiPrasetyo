@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## Status
-![Loading](https://media.giphy.com/media/3oEdv1t9HYoakzGdCk/giphy.gif)
+![Loading](https://media.tenor.com/o8FhtRf4vF0AAAAM/cool-fun.gif)
 
 ## GitHub Stats
 ![WahyuBagasDwiPrasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
