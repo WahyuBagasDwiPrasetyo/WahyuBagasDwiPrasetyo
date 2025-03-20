@@ -1,7 +1,4 @@
 Welcome to my GitHub profile! I'm Wahyu 👋
-
-![Loading](https://assets.randomactsofkindness.org/stories/images/3630/large_1663754310491.gif)
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuBagasDwiPrasetyo&layout=compact&theme=radical)
 
