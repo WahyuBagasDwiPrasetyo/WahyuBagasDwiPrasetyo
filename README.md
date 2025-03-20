@@ -10,4 +10,3 @@ Welcome to my GitHub profile! I'm Wahyu 👋
 Feel free to check out my other repositories and projects!
 
 [LinkedIn](https://www.linkedin.com/in/wahyubagasdwiprasetyo)  
-[Personal Website](https://wahyu123.dev)
