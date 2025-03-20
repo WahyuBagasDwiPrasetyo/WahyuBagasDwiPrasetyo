@@ -1,6 +1,4 @@
-# Hi, I'm Wahyu 👋
-
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! I'm Wahyu 👋
 
 ![Loading](https://assets.randomactsofkindness.org/stories/images/3630/large_1663754310491.gif)
 
