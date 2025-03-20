@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## Status
-![Loading](https://media.tenor.com/o8FhtRf4vF0AAAAM/cool-fun.gif)
+![Loading](https://assets.randomactsofkindness.org/stories/images/3630/large_1663754310491.gif)
 
 ## GitHub Stats
 ![WahyuBagasDwiPrasetyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahyuBagasDwiPrasetyo&show_icons=true&theme=radical)
