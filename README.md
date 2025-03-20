@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## Status
 ![Loading](https://assets.randomactsofkindness.org/stories/images/3630/large_1663754310491.gif)
 
 ## GitHub Stats
